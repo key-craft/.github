@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero-banner.png"
+  <img src="../assets/hero-banner.png"
        alt="Key Craft — Crafting Code. Playing Music."
        width="100%">
 </p>
